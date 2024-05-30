@@ -32,7 +32,7 @@ The goal was to have a tool for tests with questions with only one answer. It wa
 3. Run the script using Python:
 
    ```bash
-   python your_script_name.py
+   python main.py
 
 ## Additional
 console_version.py is the console version of the test
