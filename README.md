@@ -1,6 +1,7 @@
 # Test Checker GUI Application
 
 This application is a simple GUI for checking test answers. Users can navigate through multiple-choice questions and submit their answers. The application then calculates the user's score based on their inputs.
+The goal was to have a tool for tests with questions with only one answer. It was a helpful tool to learn for one test in my colledge. Because of copyright, I change it into a test about knowing Python :). 
 
 ## Features
 
@@ -32,3 +33,6 @@ This application is a simple GUI for checking test answers. Users can navigate t
 
    ```bash
    python your_script_name.py
+
+## Additional
+console_version.py is the console version of the test
