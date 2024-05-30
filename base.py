@@ -3,7 +3,7 @@
 
 # function for creating list with question and list with anwsers
 def possible_signs(input_sign):
-    signs = ['a', 'b', 'c', 'A', 'B', 'C']
+    signs = ['a', 'b', 'c','d', 'A', 'B', 'C','D']
     if input_sign not in signs:
         return False
     else:
