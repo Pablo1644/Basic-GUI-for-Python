@@ -36,3 +36,6 @@ The goal was to have a tool for tests with questions with only one answer. It wa
 
 ## Additional
 console_version.py is the console version of the test
+
+## view of the GUI
+![View of GUI](Python_GUI.png) </br>
